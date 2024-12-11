@@ -11,7 +11,7 @@
 3. Terminal > New Terminal 
 
 4. Clone project from github to vscode with terminal
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/ariansyahriwendi/sauce-labs-amartha.git
 
 5. npm install with terminal
 npm install
